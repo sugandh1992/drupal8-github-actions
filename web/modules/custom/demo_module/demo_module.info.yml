@@ -1,5 +1,5 @@
 name: Demo module
 type: module
-description: Demo module used for demonstrating CircleCI integration.
+description: Demo module used for demonstrate CircleCI integration.
 package: Custom
 core: 8.x
